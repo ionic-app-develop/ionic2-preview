@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>No Lines</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list no-lines>
+    <button ion-item *ngFor="let item of items" (click)="itemSelected(item)">
+      {{ item }}
+    </button>
+  </ion-list>
+</ion-content>

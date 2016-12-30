@@ -1,0 +1,220 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/v2/theming/
+@import "ionic.globals";
+
+
+// Shared Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass variables found in Ionic's source scss files.
+// To view all the possible Ionic variables, see:
+// http://ionicframework.com/docs/v2/theming/overriding-ionic-variables/
+
+$text-color:        #000;
+$background-color:  #fff;
+
+
+// Named Color Variables
+// --------------------------------------------------
+// Named colors makes it easy to reuse colors on various components.
+// It's highly recommended to change the default colors
+// to match your app's branding. Ionic uses a Sass map of
+// colors so you can add, rename and remove colors as needed.
+// The "primary" color is the only required color in the map.
+
+$colors: (
+  primary:    #387ef5,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222,
+  energized:  #ffc527,
+  royal:      #7e60ff,
+  subtle:     #444444,
+  vibrant:    rebeccapurple,
+  bright:     #ffc125
+);
+
+
+
+// App iOS Variables
+// --------------------------------------------------
+// iOS only Sass variables can go here
+
+$checkbox-ios-icon-checkmark-color:   #fff;
+$cordova-ios-statusbar-padding:       20px;
+
+
+// App Material Design Variables
+// --------------------------------------------------
+// Material Design only Sass variables can go here
+
+$toolbar-md-background:                   color($colors, primary);
+
+// Use the default background for the tabbar since it inherits from toolbar
+$tabs-md-background:                      #f8f8f8;
+
+// Change the color of the tabs text
+$tabs-md-tab-color-active:                color($colors, primary);
+$tabs-md-tab-color:                       rgba(#8c8c8c, 0.7);
+
+// Change the color of the segment button text
+$toolbar-md-active-color:                 #fff;
+$toolbar-md-inactive-color:               #fff;
+$segment-button-md-text-color-activated:  #fff;
+
+$checkbox-md-icon-checkmark-color:        #fff;
+$segment-button-md-text-color-activated:  #fff;
+
+// Used to show the status bar for component demos
+$cordova-md-statusbar-padding:           29px;
+
+
+// App Windows Variables
+// --------------------------------------------------
+// Windows only Sass variables can go here
+
+// Used to show the status bar for component demos
+$cordova-wp-statusbar-padding:           31px;
+
+
+// App Theme
+// --------------------------------------------------
+// Ionic apps can have different themes applied, which can
+// then be future customized. This import comes last
+// so that the above variables are used and Ionic's
+// default are overridden.
+
+@import "ionic.theme.default";
+
+
+// Ionicons
+// --------------------------------------------------
+// The premium icon font for Ionic. For more info, please see:
+// http://ionicframework.com/docs/v2/ionicons/
+
+$ionicons-font-path: "../assets/fonts";
+@import "ionicons";
+
+
+// Global Styles
+// --------------------------------------------------
+// Styles that apply to the entire app
+
+body, body:hover, body a, body button, body media-switch {
+  cursor: url('http://ionicframework.com/img/finger.png') 8 8, auto;
+}
+
+body ion-app {
+  overflow: visible;
+}
+
+ion-page {
+  display: flex;
+}
+
+ion-scroll {
+  width: 100%;
+  height: 100%;
+}
+
+body.has-scrollbar scroll-content {
+  margin-right: -15px;
+}
+
+body.has-scrollbar ion-menu scroll-content {
+  margin-right: 0;
+}
+
+scroll-content {
+  overflow-y: scroll;
+}
+
+
+// App iOS Styles
+// --------------------------------------------------
+// iOS only styles can go here
+
+.ios {
+
+  // iOS Status Bar
+  //---------------------------
+  img#ios-only {
+    display: block !important;
+    position: absolute;
+    background-color: transparent;
+    padding: 5px 0;
+    top: 0px;
+    width: 100%;
+    height: auto;
+    z-index: 999;
+  }
+
+  .tabs-icon-text tabbar {
+    .tab-button[aria-selected=true],
+    .tab-button:hover:not(.disable-hover) {
+      color: #7e60ff;
+    }
+  }
+
+}
+
+
+// App Material Design Styles
+// --------------------------------------------------
+// Material Design only styles can go here
+
+.md {
+
+  // Android Status Bar
+  //---------------------------
+  img#md-only {
+    display: block !important;
+    position: absolute;
+    background-color: transparent;
+    top: 0px;
+    width: 100%;
+    height: auto;
+    z-index: 999;
+  }
+
+  .tabs-icon-text ion-title div.toolbar-title {
+    color: #fff !important;
+  }
+
+  .tabs-icon-text tabbar {
+    background-color: #7e60ff;
+
+    a {
+      color: #fff !important;
+    }
+  }
+
+  .tabs-icon-text tab-highlight {
+    color: #fff;
+    background-color: #fff;
+  }
+
+}
+
+
+// App Windows Styles
+// --------------------------------------------------
+// Windows only styles can go here
+
+.wp {
+
+  // Windows Status Bar
+  //---------------------------
+  img#wp-only {
+    display: block !important;
+    position: absolute;
+    background-color: transparent;
+    padding: 5px 0;
+    top: 0px;
+    width: 100%;
+    height: auto;
+    z-index: 999;
+  }
+
+}
