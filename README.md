@@ -78,6 +78,27 @@ https://github.com/Alex-0407/ionic2-preview
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 * [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
 
+### 新浪云活动
+新浪云平台Sina App Engine(SAE)，是由新浪公司开发和运营的开放云计算平台的核心组成部分，国内第一家公有云计算平台，可以为网站开发者，App开发者提供稳定、快捷、透明、可控的服务化的平台，并且减少开发者的开发和维护成本。
+
+「新浪云福利」1000云豆免费领！低成本、免运维、灵活、安全稳定，轻松应对业务爆发式增长，一起来用吧！ 注册地址：http://t.cn/R5oFIaD
+
+### 购物返利平台推荐
+
+一点公益官方注册地址：http://www.51ydgy.com/register.html#register?referrer=yJLlzKPzYOw%3D&referrerType=Wb8UGGNSv1E%3D
+
+一点公益官方登录地址：http://www.51ydgy.com/
+
+一点公益app下载地址：http://www.51ydgy.com/index.html#publicModule/download/downLoad
+
+
+### 最新技术福利
+
+React Native 0-11集视频免费下载地址： 百度云盘链接: 链接: https://pan.baidu.com/s/1boPUy9D 提取码: cbb8
+
+更多视频教程及源码请关注微信公众号sports17520，回复“RN视频教程”领取。
+
+
 #### 欢迎关注我的微信公众号，获取更多学习资源
 
 * 扫一扫下面的二维码或者搜索sports17520 
