@@ -103,4 +103,4 @@ React Native 0-11集视频免费下载地址： 百度云盘链接: 链接: http
 
 * 扫一扫下面的二维码或者搜索"ionic2实战"
 
-<img src="https://github.com/Alex-0407/ionic2-slidetabs/blob/master/src/assets/img/wechat.jpg" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/src/assets/img/qrcode_for_gh_ionic2.jpg" width="320px" style="display:inline;">
