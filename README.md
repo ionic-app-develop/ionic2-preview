@@ -3,7 +3,7 @@ README
 ionic2-preview
 
 ****
-###¡¡Author:Alex Dong
+###ã€€Author:Alex Dong
 
 ===========================
 
@@ -14,7 +14,7 @@ ionic2-preview
 3. `npm install`
 4. run `ionic serve` from a terminal
 
-### ÏîÄ¿½ØÍ¼:
+### é¡¹ç›®æˆªå›¾:
 
 <img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/1.PNG" width="320px" style="display:inline;"> 
 <img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/2.PNG" width="320px" style="display:inline;">
@@ -43,10 +43,10 @@ ionic2-preview
 <img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/16.PNG" width="320px" style="display:inline;">
 <img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/17.PNG" width="320px" style="display:inline;">
 
-### ÏîÄ¿µØÖ·£º
+### é¡¹ç›®åœ°å€ï¼š
 https://github.com/Alex-0407/ionic2-preview
 
-#### Ionic 2 Ñ§Ï°×ÊÔ´
+#### Ionic 2 å­¦ä¹ èµ„æº
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
 * [Ionic 2 First Look Series: Your First Ionic 2 App Explained](http://www.joshmorony.com/ionic-2-first-look-series-your-first-ionic-2-app-explained/)
 * [How to Convert an Ionic 1 Application to Ionic 2](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)
@@ -64,7 +64,7 @@ https://github.com/Alex-0407/ionic2-preview
 
 
 
-#### Ionic2¿ªÔ´ÏîÄ¿
+#### Ionic2å¼€æºé¡¹ç›®
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
@@ -78,29 +78,29 @@ https://github.com/Alex-0407/ionic2-preview
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 * [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
 
-### ĞÂÀËÔÆ»î¶¯
-ĞÂÀËÔÆÆ½Ì¨Sina App Engine(SAE)£¬ÊÇÓÉĞÂÀË¹«Ë¾¿ª·¢ºÍÔËÓªµÄ¿ª·ÅÔÆ¼ÆËãÆ½Ì¨µÄºËĞÄ×é³É²¿·Ö£¬¹úÄÚµÚÒ»¼Ò¹«ÓĞÔÆ¼ÆËãÆ½Ì¨£¬¿ÉÒÔÎªÍøÕ¾¿ª·¢Õß£¬App¿ª·¢ÕßÌá¹©ÎÈ¶¨¡¢¿ì½İ¡¢Í¸Ã÷¡¢¿É¿ØµÄ·şÎñ»¯µÄÆ½Ì¨£¬²¢ÇÒ¼õÉÙ¿ª·¢ÕßµÄ¿ª·¢ºÍÎ¬»¤³É±¾¡£
+### æ–°æµªäº‘æ´»åŠ¨
+æ–°æµªäº‘å¹³å°Sina App Engine(SAE)ï¼Œæ˜¯ç”±æ–°æµªå…¬å¸å¼€å‘å’Œè¿è¥çš„å¼€æ”¾äº‘è®¡ç®—å¹³å°çš„æ ¸å¿ƒç»„æˆéƒ¨åˆ†ï¼Œå›½å†…ç¬¬ä¸€å®¶å…¬æœ‰äº‘è®¡ç®—å¹³å°ï¼Œå¯ä»¥ä¸ºç½‘ç«™å¼€å‘è€…ï¼ŒAppå¼€å‘è€…æä¾›ç¨³å®šã€å¿«æ·ã€é€æ˜ã€å¯æ§çš„æœåŠ¡åŒ–çš„å¹³å°ï¼Œå¹¶ä¸”å‡å°‘å¼€å‘è€…çš„å¼€å‘å’Œç»´æŠ¤æˆæœ¬ã€‚
 
-¡¸ĞÂÀËÔÆ¸£Àû¡¹1000ÔÆ¶¹Ãâ·ÑÁì£¡µÍ³É±¾¡¢ÃâÔËÎ¬¡¢Áé»î¡¢°²È«ÎÈ¶¨£¬ÇáËÉÓ¦¶ÔÒµÎñ±¬·¢Ê½Ôö³¤£¬Ò»ÆğÀ´ÓÃ°É£¡ ×¢²áµØÖ·£ºhttp://t.cn/R5oFIaD
+ã€Œæ–°æµªäº‘ç¦åˆ©ã€1000äº‘è±†å…è´¹é¢†ï¼ä½æˆæœ¬ã€å…è¿ç»´ã€çµæ´»ã€å®‰å…¨ç¨³å®šï¼Œè½»æ¾åº”å¯¹ä¸šåŠ¡çˆ†å‘å¼å¢é•¿ï¼Œä¸€èµ·æ¥ç”¨å§ï¼ æ³¨å†Œåœ°å€ï¼šhttp://t.cn/R5oFIaD
 
-### ¹ºÎï·µÀûÆ½Ì¨ÍÆ¼ö
+### è´­ç‰©è¿”åˆ©å¹³å°æ¨è
 
-Ò»µã¹«Òæ¹Ù·½×¢²áµØÖ·£ºhttp://www.51ydgy.com/register.html#register?referrer=yJLlzKPzYOw%3D&referrerType=Wb8UGGNSv1E%3D
+ä¸€ç‚¹å…¬ç›Šå®˜æ–¹æ³¨å†Œåœ°å€ï¼šhttp://www.51ydgy.com/register.html#register?referrer=yJLlzKPzYOw%3D&referrerType=Wb8UGGNSv1E%3D
 
-Ò»µã¹«Òæ¹Ù·½µÇÂ¼µØÖ·£ºhttp://www.51ydgy.com/
+ä¸€ç‚¹å…¬ç›Šå®˜æ–¹ç™»å½•åœ°å€ï¼šhttp://www.51ydgy.com/
 
-Ò»µã¹«ÒæappÏÂÔØµØÖ·£ºhttp://www.51ydgy.com/index.html#publicModule/download/downLoad
-
-
-### ×îĞÂ¼¼Êõ¸£Àû
-
-React Native 0-11¼¯ÊÓÆµÃâ·ÑÏÂÔØµØÖ·£º °Ù¶ÈÔÆÅÌÁ´½Ó: Á´½Ó: https://pan.baidu.com/s/1boPUy9D ÌáÈ¡Âë: cbb8
-
-¸ü¶àÊÓÆµ½Ì³Ì¼°Ô´ÂëÇë¹Ø×¢Î¢ĞÅ¹«ÖÚºÅsports17520£¬»Ø¸´¡°RNÊÓÆµ½Ì³Ì¡±ÁìÈ¡¡£
+ä¸€ç‚¹å…¬ç›Šappä¸‹è½½åœ°å€ï¼šhttp://www.51ydgy.com/index.html#publicModule/download/downLoad
 
 
-#### »¶Ó­¹Ø×¢ÎÒµÄÎ¢ĞÅ¹«ÖÚºÅ£¬»ñÈ¡¸ü¶àÑ§Ï°×ÊÔ´
+### æœ€æ–°æŠ€æœ¯ç¦åˆ©
 
-* É¨Ò»É¨ÏÂÃæµÄ¶şÎ¬Âë»òÕßËÑË÷sports17520 
+React Native 0-11é›†è§†é¢‘å…è´¹ä¸‹è½½åœ°å€ï¼š ç™¾åº¦äº‘ç›˜é“¾æ¥: é“¾æ¥: https://pan.baidu.com/s/1boPUy9D æå–ç : cbb8
+
+æ›´å¤šè§†é¢‘æ•™ç¨‹åŠæºç è¯·å…³æ³¨å¾®ä¿¡å…¬ä¼—å·sports17520ï¼Œå›å¤â€œRNè§†é¢‘æ•™ç¨‹â€é¢†å–ã€‚
+
+
+#### æ¬¢è¿å…³æ³¨æˆ‘çš„å¾®ä¿¡å…¬ä¼—å·ï¼Œè·å–æ›´å¤šå­¦ä¹ èµ„æº
+
+* æ‰«ä¸€æ‰«ä¸‹é¢çš„äºŒç»´ç æˆ–è€…æœç´¢"ionic2å®æˆ˜"
 
 <img src="https://github.com/Alex-0407/ionic2-slidetabs/blob/master/src/assets/img/wechat.jpg" width="320px" style="display:inline;">
