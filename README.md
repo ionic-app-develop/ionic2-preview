@@ -86,14 +86,6 @@ https://github.com/Alex-0407/ionic2-preview
 
 「新浪云福利」1000云豆免费领！低成本、免运维、灵活、安全稳定，轻松应对业务爆发式增长，一起来用吧！ 注册地址：http://t.cn/R5oFIaD
 
-### 购物返利平台推荐
-
-一点公益官方注册地址：http://www.51ydgy.com/register.html#register?referrer=yJLlzKPzYOw%3D&referrerType=Wb8UGGNSv1E%3D
-
-一点公益官方登录地址：http://www.51ydgy.com/
-
-一点公益app下载地址：http://www.51ydgy.com/index.html#publicModule/download/downLoad
-
 
 ### 最新技术福利
 
