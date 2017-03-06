@@ -65,7 +65,10 @@ https://github.com/Alex-0407/ionic2-preview
 
 
 #### Ionic2开源项目
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
+* [Ionic2-Conference App](https://github.com/Alex-0407/ionic2-conference)
+* [Ionic2-preview App](https://github.com/Alex-0407/ionic2-preview)
+* [Ionic2-slidetabs App](https://github.com/Alex-0407/ionic2-slidetabs)
+* [Ionic2-tabs App](https://github.com/Alex-0407/ionic2-tabs)
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
 * [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
 * [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud)
