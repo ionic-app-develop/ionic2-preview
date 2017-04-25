@@ -14,34 +14,9 @@ ionic2-preview
 3. `npm install`
 4. run `ionic serve` from a terminal
 
-### 项目截图:
+### 效果预览
 
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/1.PNG" width="320px" style="display:inline;"> 
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/2.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/3.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/4.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/5.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/6.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/7.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/8.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/9.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/10.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/11.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/1.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/12.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/13.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/14.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/15.PNG" width="320px" style="display:inline;">
-
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/16.PNG" width="320px" style="display:inline;">
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/17.PNG" width="320px" style="display:inline;">
+![动态图](https://github.com/Alex-0407/ionic2-preview/blob/master/www/assets/img/screenshots/ionic2-preview.gif?raw=true)
 
 ### 项目地址：
 https://github.com/Alex-0407/ionic2-preview
